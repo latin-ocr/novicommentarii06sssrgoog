@@ -1,0 +1,43 @@
+’ rr runonnnrm ArrrnME'rrcA
+
+Thenrema 5.
+
+ει. si fint A et B numeri inter se primi, et
+numerus partium ed A primarum fit :a, numerus
+uero partium ad B primarum fit :b; tum numerus
+partium nd producinm AB primarum erit :ab
+
+Demonstratin
+
+Sint 1, α, {iffi-..un numeri illi
+
+’ ipso A minores ad eumque primi, bn partes nd A
+
+primae, quarum igitur partium numerus per hypothe-
+
+ssu est za. Totidem ergo erunt numeri ari A, itidem
+
+primi erunt ab A ad 2A‚ item aenan 3A,etit1
+
+porro. Hoc modo exhiberi poterunt omnes numeri ad
+A primi ab unitate usque ad numerum proporitum i
+AB, quos sequens sthene exhibebit: i
+
+A÷1‚ Afilae, ⁹ r
+2A÷n
+3A÷1, 3A÷oe‚ 3A÷ss ..... 3A÷u
+
+(B-1JA41,(B·1)A÷oe,(B-1)A÷ss, 1 Γ. (B-1)A†u2
+
+Hic singulae serien horimntale. continent a terminos,
+numerusque omnium seriemrn horizontniium est :133
+vnde omnes serien iunrstim offerunt aB ruminor, qui
+iarn ornnes nd A erunt primi. inde ergo adhuc ex·
+eludi debent ii, qui ad B non sunt primi, ut hoe
+modo relinquuntur, qui non solum ad A, sed eriam ad
+
+. B, ideoque ad ipsum pronubum AB, fint primi, seu
+¹ 01
+
+ 
+
